@@ -37,4 +37,8 @@ I think Amazon is good chose for learn how to create a simple online store with 
 
 ## 📧 Contact 📧
 Created by Eryk Ueberhan,
+<<<<<<< HEAD
 eryk.ueberhan@gmail.com
+=======
+eryk.ueberhan@gmail.com
+>>>>>>> 60a6bf441b4c34396657abfe9b83f9ce30a3c6c3
