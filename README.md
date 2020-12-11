@@ -2,7 +2,7 @@
 That is a trening project used to learn how to make a online shop.
 
 ## 💢 Link to app: 💢
-https://discord-clone-47751.web.app
+https://clone-26bc6.web.app
 
 ## 🔍 Table of contents 🔍
 * [General info](#general-info)
