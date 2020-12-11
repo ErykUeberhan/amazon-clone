@@ -1,4 +1,4 @@
-# 💻 Amazon shop clone single-page application 💻 
+# 🛍 Amazon shop clone single-page application 🛍 
 That is a trening project used to learn how to make a online shop.
 
 ## 💢 Link to app: 💢
@@ -14,37 +14,26 @@ https://discord-clone-47751.web.app
 
 
 ## 📋 General info 📋
-My Discord-clone allows you to register your account, log in and write with people. You can create a server, add categories and channels with chat.
-Every server have a unique ID, so it's possible to have a many channels with different topics to conversations.
-The application is written with React, uses Realtime Database Firestore to storage data orders and Authentication Firebase to store users accounts.
-Redux stores a informations about logged user and chats.
+That is my first React project. Here I learned how React works with JSX, basic hooks, and creating page made of components.
+Npm capabilities allows me to easy connect useful modules. I got to know Firebase so I could create a login pannel with user authentication.
+Application stores informations about shop basket that are dispatched to global states.
 
 ## ⚙️ Technologies ⚙️
 * HTML/CSS/Javascript
 * React
-* Redux
 * Firebase
 
 ## 🚀 Features 🚀
 * Registration and login in
-* Realtime chat
-* Adding servers/categories/channels dependent on each other and deleting them from database by one click
-* Application is responsive for mobile devices
+* Shop basket with realtime updates
 
 ## ⌚️ Status ⌚️
-Project is in progress
-
-🔧 To-do list:
-* Inviting to friends
-* Show list of users chatting in channel
-* Direct messages
-* Voice channels
-* Allow to send gifs/light images on chat
+Project is finished
 
 ## 🖌 Inspiration 🖌
-I like to make clones of known pages/application to improve my programming skills.
-That allow me to focus on technologies, features and solutions more than thinking about page layout.
-I think Discord is good chose for learn how to create a online chat.
+I decided to make clone of known page that allow me to focus on technologies, 
+features and solutions more than thinking about page layout.
+I think Amazon is good chose for learn how to create a simple online store with basket.
 
 ## 📧 Contact 📧
 Created by Eryk Ueberhan,
